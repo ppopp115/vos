@@ -14,7 +14,7 @@ const filesToCache = [
 	"VirtualXPVGA.bin"
 ];
 
-const staticCacheName = "virtualxp-v1";
+const staticCacheName = "MXHMCP-VXP";
 
 self.addEventListener("install", event => {
 	event.waitUntil(
